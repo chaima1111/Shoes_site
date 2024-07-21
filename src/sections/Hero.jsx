@@ -1,6 +1,10 @@
 
 const Hero = () => {
-  return <div>Hero</div>;
+  return (
+    <section id="home">
+
+    </section>
+  );
 }
 
 export default Hero
